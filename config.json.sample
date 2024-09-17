@@ -1,0 +1,12 @@
+{
+  "database": {
+    "user": "your_database_user",
+    "password": "your_database_password",
+    "name": "your_database_name",
+    "host": "your_database_host",
+    "port": 5432
+  },
+  "server": {
+    "port": 8080
+  }
+}
